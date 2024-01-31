@@ -1,12 +1,8 @@
 # psd
-Config files for my GitHub profile.
-Jaswanth Reddy
+
 # Service Name - Local Development and Deployment
 
-## Author: Your Name
-
-### Personal Reflections
-Include any personal reflections, thoughts, or notes related to the development and deployment of the service.
+## Author: Jaswanth Reddy
 
 ---
 
