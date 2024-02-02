@@ -74,16 +74,3 @@ The provided `docker-compose.yml` file can be used for production deployment. En
     ```bash
     docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
     ```
-
----
-
-## Assumptions
-
-List any assumptions made about the production deployment target, such as specific infrastructure, network setup, or other environmental aspects.
-
----
-
-## Additional Notes
-
-Include any additional information or notes that may be relevant for developers, operators, or contributors.
-
